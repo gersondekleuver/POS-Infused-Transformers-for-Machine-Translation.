@@ -9,3 +9,5 @@ The proposed approach iterated upon the works of Yang et al. (2021), Perera et a
 
 The obtained results contradict the works of Yang et al. (2021) as their architecture using a hard constraint is outperformed by the base CMLM architecture on the German-English dataset. Furthermore, our implementation of adding part-of-speech embeddings to the positional encoding results in the failure of the model to translate sentences in all experiments. Finally, the proposed soft constraints yield a small improvement over the base architecture on the low-resource language experiment. Using the soft constraint performed significantly better than the version proposed by Yang et al. (2021)
 
+![{28BB868E-20C6-4CFB-9EBC-3A18C90775D5}](https://github.com/user-attachments/assets/f2e7e813-f4c3-4259-bc68-4a1388ababc4)
+
